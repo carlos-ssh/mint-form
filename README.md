@@ -13,7 +13,8 @@ This project consists of building an HTML document that matches the appearance o
 
 ## Live Demo
 
-[Live Demo Link](https://carlos-ssh.github.io/html-form/)
+[Live Demo Link](https://carlos-ssh.github.io/mint-form/)
+
 
 
 ## Authors
@@ -42,6 +43,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse. 
-
-
+- Thanks to Microverse.

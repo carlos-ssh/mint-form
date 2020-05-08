@@ -1,17 +1,18 @@
 
 
 body{
-  padding-top: 1.5vh;
   font-family: 'Oxygen', sans-serif;
   background-color: #ECEEF1;
   min-width: 40vw;
   min-height: 40vh;
 }
+a{
+  text-decoration: none;
+}
 .header {
   margin-left: 25%;
   margin-right: 25%;
-  padding: 30px 30px 30px 30px;
-
+  padding: 0px 30px 30px 30px;
 }
 
 .main-logos{
@@ -30,7 +31,7 @@ body{
   min-height: auto;
   text-align: right;
   display: fixed;
-
+  top: 150px;
 }
 
 .nav-p {
@@ -57,24 +58,25 @@ body{
   height: 5.5vh;
   margin-bottom: 1.5em;
 }
+.logo-img{
+  position: relative;
+  top: 0.4rem;
+  color: #8b8c91;
 
-.logo{
-  width: 6.4vw;
-  height: 3vh;
 }
-/* display: flex; */
-/* flex-direction: row; */
-/* align-items: center; */
+.logo{
+  margin-right: 1rem;
+  color: #8b8c91;
+}
 
 .logo1{
-  width: 11.5vw;
-  height: 5.5vh;
+  margin-right: 1rem;
+  color: #8b8c91;
 }
 
 .logo2{
-  width: 11vw;
-  height: 6vh;
-
+  margin-right: 1rem;
+  color: #8b8c91;
 }
 
 .logos{
@@ -82,7 +84,8 @@ body{
   flex-direction: row;
   align-items: center;
   min-width: 30em;
-  padding-left: 6.5em;
+  padding-left: 12.5rem;
+  text-decoration: none;
 }
 
 .container-form{

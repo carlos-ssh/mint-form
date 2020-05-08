@@ -47,7 +47,7 @@ a{
   height: 44px;
   position: relative;
   color: #ffffff;
-  border: 1px solid #aaaaaa; //fallback
+  border: 1px solid #aaaaaa; /*fallback*/
   border: 1px solid rgba(0, 0, 0, 0.34);
 }
 
@@ -88,10 +88,10 @@ a{
 }
 
 .container-form{
-  border: 1px solid #aaaaaa; //fallback
+  border: 1px solid #aaaaaa; /*fallback*/
   border: 1px solid rgba(0,0,0,.24);
   width: 25vw;
-  height: 62vh;
+  height: 61vh;
   background-color: #ffffff;
   padding: 30px 0 60px 0;
   border-bottom: none;
@@ -178,7 +178,7 @@ a{
   height: 44px;
   border: none;
   border-radius: 3px;
-  box-shadow: 1.5px 1.5px #aaaaaa;//falback
+  box-shadow: 1.5px 1.5px #aaaaaa;/*falback*/
   box-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.54);
   font-size: 1.3em;
   width: 19.2vw;
@@ -220,15 +220,15 @@ a{
   font-size: 0.53em;
   background-color: #ECEEF1;
   padding: 15px 35px 15px 0;
-  border: 1px solid #aaaaaa; //fallback
+  border: 1px solid #aaaaaa; /*fallback*/
   border: 1px solid rgba(0,0,0,.24);
-  width: 22.4vw;
+  width: 22.6vw;
   color: #8D9096;
   border-top: none;
   border-radius: 0 0 3px 3px;
   text-align: center;
-  margin-left: -4.1em;
-  margin-top: 1em;
+  margin-left: -4.4em;
+  margin-top: 1.5em;
 }
 
 .footer {

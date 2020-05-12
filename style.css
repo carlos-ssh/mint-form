@@ -136,11 +136,8 @@ a {
 }
 
 .lock-img {
-  position: relative;
-  bottom: 5.3em;
-  left: 21em;
-  width: 2.5vw;
-  height: 4.5vh;
+  background: url(resources/lock-icon1.png) right no-repeat;
+  margin-bottom: 2rem;
 }
 
 .p-text {

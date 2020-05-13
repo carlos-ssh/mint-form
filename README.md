@@ -13,7 +13,7 @@ This project consists of building an HTML document that matches the appearance o
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/carlos-ssh/mint-form/91d50d536bc87ef403c465b5c11e1a872a382f81/index.html)
+[Live Demo Link](https://carlos-ssh.github.io/mint-form/)
 
 
 
